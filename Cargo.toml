@@ -1,0 +1,9 @@
+[package]
+name = "imv-rs"
+version = "0.0.1"
+edition = "2021"
+authors = ["Peter Bui <pbui@bx612.space>"]
+description = "Interactive Move Utility"
+
+[dependencies]
+tempfile = "3.10.1"
